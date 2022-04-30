@@ -7,6 +7,10 @@
         "dist",
         "src"
     ],
+    "repository": {
+        "url": "https://github.com/Potrero12/jp-product-card",
+        "type": "git"
+    },
     "engines": {
         "node": ">=10"
     },
@@ -61,5 +65,11 @@
     },
     "dependencies": {
         "rollup-plugin-postcss": "^4.0.2"
-    }
+    },
+    "keywords": [
+        "products",
+        "card",
+        "julian",
+        "perdomo"
+    ]
 }
